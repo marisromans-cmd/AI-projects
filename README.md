@@ -61,6 +61,12 @@ The system combines:
 
 ## ▶️ Getting Started
 
+## 💻 Requirements
+
+- Python 3.10+
+- Ollama installed
+- Works on Windows, macOS, and Linux
+
 ### 1. Clone the repository
 
 git clone https://github.com/YOUR_USERNAME/ask-your-pdf.git
