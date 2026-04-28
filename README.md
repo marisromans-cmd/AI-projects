@@ -83,7 +83,7 @@ The model extracts structured insights directly from the document.
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ask-your-pdf.git
+git clone https://github.com/marisromans-cmd/ask-your-pdf.git
 cd ask-your-pdf
 
 2. Install dependencies
