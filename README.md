@@ -25,6 +25,20 @@ The system combines:
 
 ---
 
+## 📸 Demo
+
+### 📂 Upload & Chat Interface
+Upload a PDF and interact with the chatbot in a clean UI.
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+---
+
+### 📊 Example Answer
+The model extracts structured insights directly from the document.
+
+![Screenshot 2](screenshots/screenshot2.png)
+
 ## 🧠 How It Works
 
 1. 📂 Upload a PDF document  
