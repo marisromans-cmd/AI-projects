@@ -30,7 +30,7 @@ The system combines:
 ### 📂 Upload & Chat Interface
 Upload a PDF and interact with the chatbot in a clean UI.
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 
 ---
 
