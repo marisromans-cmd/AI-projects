@@ -3,6 +3,7 @@
 Solves the problem of quickly extracting insights from large documents without sending data to the cloud.
 
 Ask questions about your PDF documents using a fully local AI pipeline.  
+
 No OpenAI API, no cloud upload — everything runs on your machine.
 
 PDF → Chunking → Embeddings → FAISS → Retrieval → LLM → Answer
