@@ -37,7 +37,7 @@ Upload a PDF and interact with the chatbot in a clean UI.
 ### 📊 Example Answer
 The model extracts structured insights directly from the document.
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 
 ## 🧠 How It Works
 
