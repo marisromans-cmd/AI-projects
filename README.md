@@ -90,43 +90,48 @@ Create:
 [server]
 maxUploadSize = 1024
 
+## 🎯 Features
 
-🎯 Features
-💬 Chat-style interface
-📄 PDF upload and parsing
-🔍 Adjustable document search depth
-📊 Page-aware answers
-🧠 Local LLM inference
-⚡ Cached embeddings and models
-🧪 Optional context debugging
-⚠️ Limitations
+- 💬 Chat-style interface  
+- 📄 PDF upload and parsing  
+- 🔍 Adjustable document search depth  
+- 📊 Page-aware answers  
+- 🧠 Local LLM inference  
+- ⚡ Cached embeddings and models  
+- 🧪 Optional context debugging  
 
-Small models may occasionally hallucinate
-Large PDFs may take time to process initially
-Performance depends on system RAM and CPU
+---
 
-📈 Future Improvements
+## ⚠️ Limitations
 
-Multi-document support
-Persistent vector database (Chroma)
-Better reranking for accuracy
-Chat memory across sessions
-Deployment as web service
+- Small models may occasionally hallucinate  
+- Large PDFs may take time to process initially  
+- Performance depends on system RAM and CPU  
 
-📚 What I Learned
+---
 
-RAG architecture (retrieval + generation)
-Vector databases (FAISS)
-Embeddings and semantic search
-Prompt engineering for hallucination control
-Local LLM limitations and tuning
-Streamlit UI design
-Building production-style ML apps
+## 📈 Future Improvements
 
-🧑‍💻 Author
+- Multi-document support  
+- Persistent vector database (Chroma)  
+- Better reranking for accuracy  
+- Chat memory across sessions  
+- Deployment as web service  
+
+---
+
+## 📚 What I Learned
+
+- RAG architecture (retrieval + generation)  
+- Vector databases (FAISS)  
+- Embeddings and semantic search  
+- Prompt engineering for hallucination control  
+- Local LLM limitations and tuning  
+- Streamlit UI design  
+- Building production-style ML applications  
+
+---
+
+## 🧑‍💻 Author
 
 Built as a portfolio project demonstrating practical LLM + RAG system design.
-
-⭐ If you like this project
-
-Give it a star ⭐ and feel free to fork or improve it.
